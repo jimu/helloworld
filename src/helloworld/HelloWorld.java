@@ -1,6 +1,7 @@
 /**
  *  this project is a github test
  *  this is a comment added by fetchbeast
+ *  another comment by fetchbeast
  */
 package helloworld;
 
